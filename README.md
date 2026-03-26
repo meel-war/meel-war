@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Mehdi
 
-Final-year **42 student**, working on **C, C++ and system/network projects**.  
+**42 student**, working on **C, C++ and system/network projects**.  
 
 ---
 
