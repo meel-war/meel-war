@@ -47,4 +47,4 @@
 
 - Email: mehdi.elwarrad@gmail.com  
 - LinkedIn: [profile](https://www.linkedin.com/in/mehdi-el-warrad-70661b1b5/)
-- 42 Profil: [profile](https://profile.intra.42.fr/users/meel-war)
+- 42 Profile: [profile](https://profile.intra.42.fr/users/meel-war)
