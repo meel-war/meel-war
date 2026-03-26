@@ -31,7 +31,7 @@
 | ![42](https://img.shields.io/badge/42-CPP-orange) | C++ exercises: OOP and advanced concepts | ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B) |
 | ![42](https://img.shields.io/badge/42-Inception-orange) | Setup of 3 services: NGINX, MariaDB, WordPress 🌐 | ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B) |
 | ![42](https://img.shields.io/badge/42-Ft_IRC-orange) | Functional IRC server in C++ 📨 | ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B) |
-| ![42](https://img.shields.io/badge/42-Ft_Transcendence-orange) | Real-time network game/platform using WebSocket 🎮 | ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B) |
+| ![42](https://img.shields.io/badge/42-Ft_Transcendence-orange) | 🎮 | ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B) |
 
 ---
 
