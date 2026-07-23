@@ -58,8 +58,8 @@ A containerized infrastructure built with Docker Compose.
 
 | Project | Description | Main topics |
 |---|---|---|
-| [**Libft**]| Personal implementation of common C library functions | C, memory management |
-| [**get_next_line**] | Reading a file descriptor one line at a time | File descriptors, buffers |
+| **Libft**| Personal implementation of common C library functions | C, memory management |
+| [**get_next_line** | Reading a file descriptor one line at a time | File descriptors, buffers |
 | [**ft_printf**] | Reimplementation of the `printf` function | Variadic functions, formatting |
 | [**Born2beroot**] | Linux system administration project | Linux, users, permissions |
 | [**push_swap**] | Sorting integers with a restricted set of operations | Algorithms, linked lists |
