@@ -1,43 +1,32 @@
-<div align="center">
-
 Hi, I'm Mehdi 👋
 
-42 student focused on backend development, systems programming, networking, and containerized applications.
+I'm a 42 student interested in backend development, systems programming, networking, and containerized applications.
+
+I mainly work with:
 
 C · C++ · TypeScript · React · NestJS · Docker · PostgreSQL
 
-</div>
-
 🚀 Featured Projects
-
-<table> <tr> <td width="50%" valign="top">
-
-ft_transcendence
+🎮 ft_transcendence
 
 A full-stack multiplayer web application inspired by LoLdle.
 
-Stack
-
-React TypeScript NestJS PostgreSQL Prisma Socket.IO
-
 Main features
 
+React and TypeScript frontend
+NestJS backend with PostgreSQL and Prisma
 JWT authentication, OAuth 42 and two-factor authentication
-Real-time chat, presence, friendships and game invitations
+Real-time chat, presence, friendships and game invitations with Socket.IO
 Multiplayer matchmaking and daily guessing games
 HTTPS deployment with Docker Compose and NGINX
 
-</td>
+Technologies
 
-<td width="50%" valign="top">
+React · TypeScript · NestJS · PostgreSQL · Prisma · Socket.IO · Docker · NGINX
 
-Minishell
+🐚 Minishell
 
 A Bash-inspired shell written in C.
-
-Stack
-
-C Unix Processes Pipes Signals
 
 Main features
 
@@ -47,17 +36,13 @@ Environment-variable expansion
 Built-in commands
 Process and signal management
 
-</td> </tr>
+Technologies
 
-<tr> <td width="50%" valign="top">
+C · Unix · Processes · Pipes · Signals
 
-ft_irc
+🌐 ft_irc
 
 An IRC server written in C++ using non-blocking sockets.
-
-Stack
-
-C++ TCP/IP Sockets poll IRC
 
 Main features
 
@@ -66,17 +51,13 @@ Channels, operators and permissions
 IRC commands and message routing
 Socket programming and network protocols
 
-</td>
+Technologies
 
-<td width="50%" valign="top">
+C++ · TCP/IP · Sockets · poll · IRC
 
-Inception
+🐳 Inception
 
 A containerized infrastructure built with Docker Compose.
-
-Stack
-
-Docker Docker Compose NGINX MariaDB TLS
 
 Main features
 
@@ -87,28 +68,40 @@ Persistent volumes
 Isolated Docker networks
 Environment-based configuration
 
-</td> </tr> </table>
+Technologies
+
+Docker · Docker Compose · NGINX · MariaDB · WordPress · PHP-FPM · TLS
 
 📚 Other 42 Projects
 
-<div align="center">
-
 Libft · ft_printf · get_next_line · push_swap · pipex
 
-</div>
-
 🛠️ Technical Skills
-Area	Technologies
-Languages	C · C++ · TypeScript · SQL · Bash
-Backend	NestJS · Prisma · PostgreSQL · REST APIs · Socket.IO
-Frontend	React · Vite · Tailwind CSS
-Systems	Processes · Pipes · Signals · Threads · Sockets · Memory Management
-Infrastructure	Docker · Docker Compose · NGINX · HTTPS/TLS
-Tools	Git · Make · GDB · LLDB · Linux
+Languages
+
+C · C++ · TypeScript · SQL · Bash
+
+Backend
+
+NestJS · Prisma · PostgreSQL · REST APIs · Socket.IO
+
+Frontend
+
+React · Vite · Tailwind CSS
+
+Systems Programming
+
+Processes · Pipes · Signals · Threads · Sockets · Memory Management
+
+Infrastructure
+
+Docker · Docker Compose · NGINX · HTTPS/TLS
+
+Tools
+
+Git · Make · GDB · LLDB · Linux
+
 📫 Contact
-
-<div align="center">
-
-LinkedIn · 42 Profile · GitHub
-
-</div>
+LinkedIn: Mehdi El Warrad
+42 profile: meel-war
+GitHub: meel-war
