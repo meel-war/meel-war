@@ -5,10 +5,24 @@ networking, and containerized applications.
 
 I mainly work with **C, C++, TypeScript, React, NestJS, Docker, and PostgreSQL**.
 
+<p align="center">
+  <a href="https://github.com/PaulRib/Transcendence">
+    <img src="https://img.shields.io/badge/ft__transcendence-181717?style=for-the-badge&logo=github&logoColor=white" alt="ft_transcendence">
+  </a>
+  <a href="https://github.com/meel-war/minishell">
+    <img src="https://img.shields.io/badge/Minishell-181717?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Minishell">
+  </a>
+  <a href="https://github.com/meel-war/IRC">
+    <img src="https://img.shields.io/badge/ft__irc-181717?style=for-the-badge&logo=cplusplus&logoColor=white" alt="ft_irc">
+  </a>
+  <a href="https://github.com/meel-war/Inception">
+    <img src="https://img.shields.io/badge/Inception-181717?style=for-the-badge&logo=docker&logoColor=white" alt="Inception">
+  </a>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
-
 ### 🎮 [ft_transcendence](https://github.com/PaulRib/Transcendence)
 
 A full-stack multiplayer web application inspired by LoLdle.
