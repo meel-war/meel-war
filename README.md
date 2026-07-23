@@ -58,17 +58,17 @@ A containerized infrastructure built with Docker Compose.
 
 | Project | Description | Main topics |
 |---|---|---|
-| [**Libft**](https://github.com/meel-war/Libft) | Personal implementation of common C library functions | C, memory management |
-| [**get_next_line**](https://github.com/meel-war/get_next_line) | Reading a file descriptor one line at a time | File descriptors, buffers |
-| [**ft_printf**](https://github.com/meel-war/ft_printf) | Reimplementation of the `printf` function | Variadic functions, formatting |
-| [**Born2beroot**](https://github.com/meel-war/Born2beroot) | Linux system administration project | Linux, users, permissions |
-| [**push_swap**](https://github.com/meel-war/push_swap) | Sorting integers with a restricted set of operations | Algorithms, linked lists |
-| [**so_long**](https://github.com/meel-war/so_long) | Small 2D game based on a maze | Graphics, event handling |
-| [**pipex**](https://github.com/meel-war/pipex) | Simplified reproduction of shell pipelines | Processes, pipes, redirections |
-| [**Minishell**](https://github.com/meel-war/minishell) | Bash-inspired shell | Parsing, processes, signals |
-| [**Philosophers**](https://github.com/meel-war/Philosophers) | Dining Philosophers synchronization problem | Threads, mutexes |
-| [**cub3D**](https://github.com/meel-war/cub3D) | Small 3D engine using raycasting | Graphics, mathematics |
-| [**NetPractice**](https://github.com/meel-war/NetPractice) | Networking exercises based on IP addresses and routing | TCP/IP, subnets, routing |
+| [**Libft**]| Personal implementation of common C library functions | C, memory management |
+| [**get_next_line**] | Reading a file descriptor one line at a time | File descriptors, buffers |
+| [**ft_printf**] | Reimplementation of the `printf` function | Variadic functions, formatting |
+| [**Born2beroot**] | Linux system administration project | Linux, users, permissions |
+| [**push_swap**] | Sorting integers with a restricted set of operations | Algorithms, linked lists |
+| [**so_long**] | Small 2D game based on a maze | Graphics, event handling |
+| [**pipex**] | Simplified reproduction of shell pipelines | Processes, pipes, redirections |
+| [**Minishell**] | Bash-inspired shell | Parsing, processes, signals |
+| [**Philosophers**] | Dining Philosophers synchronization problem | Threads, mutexes |
+| [**cub3D**] | Small 3D engine using raycasting | Graphics, mathematics |
+| [**NetPractice**] | Networking exercises based on IP addresses and routing | TCP/IP, subnets, routing |
 
 ---
 
@@ -76,8 +76,8 @@ A containerized infrastructure built with Docker Compose.
 
 | Project | Description | Main topics |
 |---|---|---|
-| [**CPP Modules**](https://github.com/meel-war/CPP) | C++ exercises covering object-oriented programming concepts | C++, OOP |
-| [**ft_irc**](https://github.com/meel-war/IRC) | Functional IRC server using non-blocking sockets | C++, sockets, networking |
+| [**CPP Modules**] | C++ exercises covering object-oriented programming concepts | C++, OOP |
+| [**ft_irc**] | Functional IRC server using non-blocking sockets | C++, sockets, networking |
 
 ---
 
@@ -85,8 +85,8 @@ A containerized infrastructure built with Docker Compose.
 
 | Project | Description | Main topics |
 |---|---|---|
-| [**Inception**](https://github.com/meel-war/Inception) | Containerized infrastructure with NGINX, WordPress and MariaDB | Docker, NGINX, TLS |
-| [**ft_transcendence**](https://github.com/PaulRib/Transcendence) | Full-stack multiplayer web application | React, NestJS, PostgreSQL, Socket.IO |
+| [**Inception**]) | Containerized infrastructure with NGINX, WordPress and MariaDB | Docker, NGINX, TLS |
+| [**ft_transcendence**] | Full-stack multiplayer web application | React, NestJS, PostgreSQL, Socket.IO |
 
 ---
 
