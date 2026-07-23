@@ -13,11 +13,7 @@ I mainly work with **C, C++, TypeScript, React, NestJS, Docker, and PostgreSQL**
 </p>
 
 <p align="center">
-  <img
-    src="https://animesher.com/orig/1/171/1712/17127/animesher.com_killua-hunter-x-hunter-gon-1712777.gif"
-    alt="Hunter x Hunter — Gon and Killua"
-    width="320"
-  />
+  <img src="./hunter-x-hunter.gif" alt="Hunter x Hunter" width="320">
 </p>
 
 ---
