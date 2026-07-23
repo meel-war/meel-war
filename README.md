@@ -1,107 +1,110 @@
-Hi, I'm Mehdi 👋
+# Hi, I'm Mehdi 👋
 
-I'm a 42 student interested in backend development, systems programming, networking, and containerized applications.
+I'm a **42 student** interested in backend development, systems programming,
+networking, and containerized applications.
 
-I mainly work with:
+I mainly work with **C, C++, TypeScript, React, NestJS, Docker, and PostgreSQL**.
 
-C · C++ · TypeScript · React · NestJS · Docker · PostgreSQL
+---
 
-🚀 Featured Projects
-🎮 ft_transcendence
+## 🚀 Featured Projects
+
+### 🎮 [ft_transcendence](https://github.com/PaulRib/Transcendence)
 
 A full-stack multiplayer web application inspired by LoLdle.
 
-Main features
+- React and TypeScript frontend
+- NestJS backend with PostgreSQL and Prisma
+- JWT authentication, OAuth 42 and two-factor authentication
+- Real-time chat, presence, friendships and game invitations with Socket.IO
+- Multiplayer matchmaking and daily guessing games
+- HTTPS deployment with Docker Compose and NGINX
 
-React and TypeScript frontend
-NestJS backend with PostgreSQL and Prisma
-JWT authentication, OAuth 42 and two-factor authentication
-Real-time chat, presence, friendships and game invitations with Socket.IO
-Multiplayer matchmaking and daily guessing games
-HTTPS deployment with Docker Compose and NGINX
-
-Technologies
-
-React · TypeScript · NestJS · PostgreSQL · Prisma · Socket.IO · Docker · NGINX
-
-🐚 Minishell
+### 🐚 [Minishell](https://github.com/meel-war/minishell)
 
 A Bash-inspired shell written in C.
 
-Main features
+- Command parsing and execution
+- Pipes and redirections
+- Environment-variable expansion
+- Built-in commands
+- Process and signal management
 
-Command parsing and execution
-Pipes and redirections
-Environment-variable expansion
-Built-in commands
-Process and signal management
-
-Technologies
-
-C · Unix · Processes · Pipes · Signals
-
-🌐 ft_irc
+### 🌐 [ft_irc](https://github.com/meel-war/IRC)
 
 An IRC server written in C++ using non-blocking sockets.
 
-Main features
+- Multiple simultaneous clients
+- Channels, operators and permissions
+- IRC commands and message routing
+- Socket programming and network protocols
 
-Multiple simultaneous clients
-Channels, operators and permissions
-IRC commands and message routing
-Socket programming and network protocols
-
-Technologies
-
-C++ · TCP/IP · Sockets · poll · IRC
-
-🐳 Inception
+### 🐳 [Inception](https://github.com/meel-war/Inception)
 
 A containerized infrastructure built with Docker Compose.
 
-Main features
+- NGINX with TLS
+- WordPress and PHP-FPM
+- MariaDB
+- Persistent volumes
+- Isolated Docker networks
+- Environment-based configuration
 
-NGINX with TLS
-WordPress and PHP-FPM
-MariaDB
-Persistent volumes
-Isolated Docker networks
-Environment-based configuration
+---
 
-Technologies
+## 🧭 42 Projects — Chronology
 
-Docker · Docker Compose · NGINX · MariaDB · WordPress · PHP-FPM · TLS
+### 🟢 C — Foundations & Systems
 
-📚 Other 42 Projects
+| Project | Description | Main topics |
+|---|---|---|
+| [**Libft**](https://github.com/meel-war/Libft) | Personal implementation of common C library functions | C, memory management |
+| [**get_next_line**](https://github.com/meel-war/get_next_line) | Reading a file descriptor one line at a time | File descriptors, buffers |
+| [**ft_printf**](https://github.com/meel-war/ft_printf) | Reimplementation of the `printf` function | Variadic functions, formatting |
+| [**Born2beroot**](https://github.com/meel-war/Born2beroot) | Linux system administration project | Linux, users, permissions |
+| [**push_swap**](https://github.com/meel-war/push_swap) | Sorting integers with a restricted set of operations | Algorithms, linked lists |
+| [**so_long**](https://github.com/meel-war/so_long) | Small 2D game based on a maze | Graphics, event handling |
+| [**pipex**](https://github.com/meel-war/pipex) | Simplified reproduction of shell pipelines | Processes, pipes, redirections |
+| [**Minishell**](https://github.com/meel-war/minishell) | Bash-inspired shell | Parsing, processes, signals |
+| [**Philosophers**](https://github.com/meel-war/Philosophers) | Dining Philosophers synchronization problem | Threads, mutexes |
+| [**cub3D**](https://github.com/meel-war/cub3D) | Small 3D engine using raycasting | Graphics, mathematics |
+| [**NetPractice**](https://github.com/meel-war/NetPractice) | Networking exercises based on IP addresses and routing | TCP/IP, subnets, routing |
 
-Libft · ft_printf · get_next_line · push_swap · pipex
+---
 
-🛠️ Technical Skills
-Languages
+### 🟡 C++ — Object-Oriented Programming & Networking
 
-C · C++ · TypeScript · SQL · Bash
+| Project | Description | Main topics |
+|---|---|---|
+| [**CPP Modules**](https://github.com/meel-war/CPP) | C++ exercises covering object-oriented programming concepts | C++, OOP |
+| [**ft_irc**](https://github.com/meel-war/IRC) | Functional IRC server using non-blocking sockets | C++, sockets, networking |
 
-Backend
+---
 
-NestJS · Prisma · PostgreSQL · REST APIs · Socket.IO
+### 🔵 Infrastructure & Web Development
 
-Frontend
+| Project | Description | Main topics |
+|---|---|---|
+| [**Inception**](https://github.com/meel-war/Inception) | Containerized infrastructure with NGINX, WordPress and MariaDB | Docker, NGINX, TLS |
+| [**ft_transcendence**](https://github.com/PaulRib/Transcendence) | Full-stack multiplayer web application | React, NestJS, PostgreSQL, Socket.IO |
 
-React · Vite · Tailwind CSS
+---
 
-Systems Programming
+## 🛠️ Technical Skills
 
-Processes · Pipes · Signals · Threads · Sockets · Memory Management
+| Area | Technologies |
+|---|---|
+| **Languages** | `C` · `C++` · `TypeScript` · `SQL` · `Bash` |
+| **Backend** | `NestJS` · `Prisma` · `PostgreSQL` · `REST APIs` · `Socket.IO` |
+| **Frontend** | `React` · `Vite` · `Tailwind CSS` |
+| **Systems** | `Processes` · `Pipes` · `Signals` · `Threads` · `Sockets` · `Memory Management` |
+| **Infrastructure** | `Docker` · `Docker Compose` · `NGINX` · `HTTPS/TLS` |
+| **Tools** | `Git` · `Make` · `GDB` · `LLDB` · `Linux` |
 
-Infrastructure
+---
 
-Docker · Docker Compose · NGINX · HTTPS/TLS
+## 📫 Contact
 
-Tools
-
-Git · Make · GDB · LLDB · Linux
-
-📫 Contact
-LinkedIn: Mehdi El Warrad
-42 profile: meel-war
-GitHub: meel-war
+- **LinkedIn:** [Mehdi El Warrad](https://www.linkedin.com/in/mehdi-el-warrad-70661b1b5/)
+- **42 profile:** [meel-war](https://profile.intra.42.fr/users/meel-war)
+- **GitHub:** [meel-war](https://github.com/meel-war)
