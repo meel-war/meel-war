@@ -33,7 +33,7 @@ A Bash-inspired shell written in C.
 
 ---
 
-### [ft_irc](https://github.com/meel-war/ft_irc)
+### [ft_irc]([https://github.com/meel-war/ft_irc](https://github.com/meel-war/IRC))
 
 An IRC server written in C++ using non-blocking sockets.
 
