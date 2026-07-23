@@ -81,13 +81,9 @@ A containerized infrastructure built with Docker Compose.
 
 `Processes` · `Pipes` · `Signals` · `Threads` · `Sockets` · `Memory Management`
 
-### DevOps
-
-`Docker` · `Docker Compose` · `NGINX` · `HTTPS/TLS` · `Git`
-
 ### Tools
 
-`Make` · `GDB` · `LLDB` · `Linux`
+`Make` · `GDB` · `LLDB` · `Linux` `Docker` · `Docker Compose` · `NGINX` · `HTTPS/TLS` · `Git`
 
 ---
 
