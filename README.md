@@ -12,6 +12,14 @@ I mainly work with **C, C++, TypeScript, React, NestJS, Docker, and PostgreSQL**
 <a href="https://github.com/meel-war/Inception"><img src="https://img.shields.io/badge/Inception-181717?style=for-the-badge&logo=docker&logoColor=white" alt="Inception"></a>
 </p>
 
+<p align="center">
+  <img
+    src="https://animesher.com/orig/1/171/1712/17127/animesher.com_killua-hunter-x-hunter-gon-1712777.gif"
+    alt="Hunter x Hunter — Gon and Killua"
+    width="320"
+  />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
