@@ -13,7 +13,7 @@ I mainly work with **C, C++, TypeScript, React, NestJS, Docker, and PostgreSQL**
 </p>
 
 <p align="center">
-  <img src="./hunter-x-hunter.gif" alt="Hunter x Hunter" width="320">
+  <img src="./dbz.gif" alt="Dragon ball" width="320">
 </p>
 
 ---
