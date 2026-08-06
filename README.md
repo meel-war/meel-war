@@ -3,7 +3,7 @@
 I'm a **42 student** interested in backend development, systems programming,
 networking, and containerized applications.
 
-I mainly work with **C, C++, TypeScript, React, NestJS, Docker, and PostgreSQL**.
+I mainly work with **C, C++, TypeScript, React, NestJS, Prisma, and PostgreSQL**.
 
 <p align="center">
 <a href="https://github.com/PaulRib/Transcendence"><img src="https://img.shields.io/badge/ft__transcendence-181717?style=for-the-badge&logo=github&logoColor=white" alt="ft_transcendence"></a>
